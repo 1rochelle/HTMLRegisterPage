@@ -1,0 +1,43 @@
+body{
+    background-color: cornflowerblue;
+}
+.section{
+    background-color: white;
+    align-content: center;
+    padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 700px;
+}
+#div {
+    background-color: white;
+    min-height: 10px;
+    display: table-cell;
+    vertical-align: middle; 
+}
+button{
+    background-color: cornflowerblue;
+    color: white;
+}
+#aboutus{
+    text-decoration: none;
+    background-color: cornflowerblue;
+    color: white;
+
+}
+#register{
+    text-decoration: none;
+    background-color: cornflowerblue;
+    color: white;
+    padding: 10px;
+    position:  relative; top: 5px;
+
+}
+nav{
+    text-align: right;
+    background-color: white;
+    border-style: solid;
+    border-color: white;
+}
+   
+    
